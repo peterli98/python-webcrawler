@@ -9,12 +9,8 @@ Functionality:
 
 1. Finds top 50 anime
 
-2. get and print the name of these top 50 animes
+2. get the name of these top 50 animes and write them in a file
 
-3. get and print the url of these top 50 animes
+3. get the url of these top 50 animes and write them in a file
 
-4. get and print the score of these top 50 animes
-
-Future:
-
-Save them into a file.
+4. get the score of these top 50 animes and write them in a file
